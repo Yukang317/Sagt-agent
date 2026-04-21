@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Sagt Sidebar Starting... "
+
+uv sync
+
+
+nohup uv run sagt_sidebar_app.py >> sagt_sidebar.log 2>&1 &
+
+echo "Sagt Sidebar Started"
