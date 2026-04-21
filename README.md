@@ -17,9 +17,12 @@ uv sync
 uv run langgraph dev --host 0.0.0.0 --port 2024
 ```
 
-\*\*访问：\*\*<https://smith.langchain.com/studio/?baseUrl=http://127.0.0.1:2024>
+**访问:** <https://smith.langchain.com/studio/?baseUrl=http://127.0.0.1:2024>
 
 **如图：**
+<img width="1919" height="958" alt="404c0dfb0b6ed5dcabb51bb6697b858a" src="https://github.com/user-attachments/assets/c1e1cd2d-a55f-4fe3-b471-210145bc7d2b" />
+
+
 
 <br />
 
@@ -52,8 +55,9 @@ uv run sagt_agent_test.py profile
 **企业微信接收的通知：**
 
 **客户画像：**
+<img width="1169" height="820" alt="3a57942f4864969e43e284aa7a5b0b0e" src="https://github.com/user-attachments/assets/76bdfd36-211e-4e14-b7f6-e7702342c437" />
 
-<br />
+
 
 <br />
 
@@ -61,9 +65,8 @@ uv run sagt_agent_test.py profile
 
 **日程创建：**
 
-<br />
+<img width="1708" height="814" alt="011d613c5dcbba5ffad20e484f39eea9" src="https://github.com/user-attachments/assets/83fa5d5d-0499-4cbb-9484-4737e579823c" />
 
-<br />
 
 <br />
 
@@ -82,9 +85,10 @@ uv sync
 uv run sagt_admin_app.py
 ```
 
-**网址：**http\://localhost:5000/
+**网址：** http\://localhost:5000/
 
 **如图：**
+
 
 <br />
 
@@ -104,6 +108,8 @@ uv run sagt_sidebar_app.py
 **网址：http\://localhost:8000/sagt\_web/login.html**
 
 **如图：**
+
+
 
 <br />
 
