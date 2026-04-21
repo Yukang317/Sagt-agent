@@ -88,6 +88,7 @@ uv run sagt_admin_app.py
 **网址：** http\://localhost:5000/
 
 **如图：**
+<img width="1918" height="640" alt="1d39080250ccdb2e87eabe6edc60d2ad" src="https://github.com/user-attachments/assets/b6565a31-628a-402c-9811-5f00c83f7ed2" />
 
 
 <br />
