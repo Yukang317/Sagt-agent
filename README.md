@@ -109,6 +109,7 @@ uv run sagt_sidebar_app.py
 **网址：http\://localhost:8000/sagt\_web/login.html**
 
 **如图：**
+<img width="1552" height="974" alt="image" src="https://github.com/user-attachments/assets/0b4d6243-257f-4da0-a1c5-c713d0c83285" />
 
 
 
